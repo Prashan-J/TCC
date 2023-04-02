@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1005180899579",
+    "project_id": "tcc-bill",
+    "storage_bucket": "tcc-bill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005180899579:android:9ce89f1d70032dd0d4a05e",
+        "android_client_info": {
+          "package_name": "com.kiotech.tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005180899579-1ncv0qp9iuhbpr907n0lf8gvejr8be24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBik_zkqFDZ6lOrAkpZk9JoOZ_MWO5qkjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005180899579-1ncv0qp9iuhbpr907n0lf8gvejr8be24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005180899579:android:91862cfaf32692e6d4a05e",
+        "android_client_info": {
+          "package_name": "com.kiotech.tccacc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005180899579-1ncv0qp9iuhbpr907n0lf8gvejr8be24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBik_zkqFDZ6lOrAkpZk9JoOZ_MWO5qkjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005180899579-1ncv0qp9iuhbpr907n0lf8gvejr8be24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
