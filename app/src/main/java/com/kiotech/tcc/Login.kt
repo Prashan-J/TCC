@@ -26,6 +26,7 @@ class Login : AppCompatActivity() {
 
         auth = FirebaseAuth.getInstance()
 
+
         if (auth.currentUser != null) {
             startActivity(Intent(this, MainActivity::class.java))
             finish()
